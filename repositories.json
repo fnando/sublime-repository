@@ -7,33 +7,30 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/fnando/better-rspec-for-sublime-text/tree/master"
+          "details": "https://github.com/fnando/better-rspec-for-sublime-text"
         }
       ]
     },
-
     {
       "name": "Switch Case",
       "details": "https://github.com/fnando/sublime-switch-case",
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/fnando/sublime-switch-case/tree/master"
+          "details": "https://github.com/fnando/sublime-switch-case"
         }
       ]
     },
-
     {
       "name": "Ansible",
       "details": "https://github.com/clifford-github/sublime-ansible",
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/clifford-github/sublime-ansible/tree/master"
+          "details": "https://github.com/clifford-github/sublime-ansible"
         }
       ]
     },
-
     {
       "name": "Highlight",
       "details": "https://github.com/n1k0/SublimeHighlight",
@@ -44,7 +41,6 @@
         }
       ]
     },
-
     {
       "name": "Expand Selection to Quotes",
       "details": "https://github.com/kek/sublime-expand-selection-to-quotes",
