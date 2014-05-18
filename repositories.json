@@ -21,6 +21,17 @@
           "details": "https://github.com/fnando/sublime-switch-case/tree/master"
         }
       ]
+    },
+
+    {
+      "name": "Ansible",
+      "details": "https://github.com/clifford-github/sublime-ansible",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/clifford-github/sublime-ansible/tree/master"
+        }
+      ]
     }
   ]
 }
