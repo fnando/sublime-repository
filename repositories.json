@@ -6,7 +6,7 @@
       "details": "https://github.com/fnando/better-rspec-for-sublime-text",
       "releases": [
         {
-          "sublime_text": ">=3000",
+          "sublime_text": "*",
           "details": "https://github.com/fnando/better-rspec-for-sublime-text/tree/master"
         }
       ]
@@ -14,11 +14,10 @@
 
     {
       "name": "Switch Case",
-      "description": "This package switches the word under the cursor between snake_case, SCREAM_SNAKE_CASE and CamelCase.",
       "details": "https://github.com/fnando/sublime-switch-case",
       "releases": [
         {
-          "sublime_text": ">=3000",
+          "sublime_text": "*",
           "details": "https://github.com/fnando/sublime-switch-case/tree/master"
         }
       ]
