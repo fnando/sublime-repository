@@ -5,7 +5,8 @@ $packages = {
   'Switch Case'  => 'fnando/sublime-switch-case',
   'Ansible' => 'clifford-github/sublime-ansible',
   'Highlight' => 'n1k0/SublimeHighlight',
-  'Expand Selection to Quotes' => 'kek/sublime-expand-selection-to-quotes'
+  'Expand Selection to Quotes' => 'kek/sublime-expand-selection-to-quotes',
+  'Autoprefixer' => 'sindresorhus/sublime-autoprefixer'
 }
 
 $payload = {
