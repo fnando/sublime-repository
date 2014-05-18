@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+ruby packages.rb
+git add .
+git ci -a --allow-empty-message -m ''
