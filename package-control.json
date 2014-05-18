@@ -1,15 +1,6 @@
 {
 	"schema_version": "2.0",
 	"repositories": [
-		{
-			"name": "Better RSpec",
-			"details": "https://github.com/fnando/better-rspec-for-sublime-text",
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"details": "https://github.com/fnando/better-rspec-for-sublime-text/tree/master"
-				}
-			]
-		}
+    "https://github.com/fnando/better-rspec-for-sublime-text"
 	]
 }
