@@ -32,6 +32,17 @@
           "details": "https://github.com/clifford-github/sublime-ansible/tree/master"
         }
       ]
+    },
+
+    {
+      "name": "Highlight",
+      "details": "https://github.com/n1k0/SublimeHighlight",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/n1k0/SublimeHighlight"
+        }
+      ]
     }
   ]
 }
