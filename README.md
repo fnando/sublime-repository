@@ -1,1 +1,1 @@
-To install packages from this channel, just add it to Package Control. Enable the command palette and type 'Add Channel'. Then paste the following URL: https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw
+To install packages from this channel, just add it to Package Control. Enable the command palette and type 'Add Channel'. Then paste the following URL: https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw/44cc82124b3a89efec4f88d0bbc1020e0b0b4ec6/package-control.json
