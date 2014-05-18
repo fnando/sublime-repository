@@ -43,6 +43,17 @@
           "details": "https://github.com/n1k0/SublimeHighlight"
         }
       ]
+    },
+
+    {
+      "name": "Expand Selection to Quotes",
+      "details": "https://github.com/kek/sublime-expand-selection-to-quotes",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/kek/sublime-expand-selection-to-quotes"
+        }
+      ]
     }
   ]
 }
