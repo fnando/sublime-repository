@@ -4,7 +4,7 @@ $packages = {
   'Better RSpec' => 'fnando/better-rspec-for-sublime-text',
   'Switch Case'  => 'fnando/sublime-switch-case',
   'Ansible' => 'clifford-github/sublime-ansible',
-  'Highlight' => 'n1k0/SublimeHighlight',
+  'Highlight' => 'n1k0/SublimeHighlight/tree/python3',
   'Expand Selection to Quotes' => 'kek/sublime-expand-selection-to-quotes',
   'Autoprefixer' => 'sindresorhus/sublime-autoprefixer'
 }
@@ -17,7 +17,7 @@ $payload = {
 $packages.each do |name, gh|
   $payload[:packages] << {
     name: name,
-    details: %[https://github.com/#{gh}],
+    details: %[https://github.com/#{gh.split('/')[0,2].join('/')}],
     releases: [
       {
         sublime_text: '*',

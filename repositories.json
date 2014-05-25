@@ -37,7 +37,7 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/n1k0/SublimeHighlight"
+          "details": "https://github.com/n1k0/SublimeHighlight/tree/python3"
         }
       ]
     },
