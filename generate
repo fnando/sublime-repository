@@ -3,3 +3,4 @@ set -e
 ruby packages.rb
 git add .
 git ci -a --allow-empty-message -m ''
+git push
