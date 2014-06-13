@@ -1,7 +1,7 @@
 require 'json'
 
 $packages = {
-  'Ruby' => 'fnando/ruby-for-sublime-text',
+  'Better Ruby' => 'fnando/better-ruby-for-sublime-text',
   'Better RSpec' => 'fnando/better-rspec-for-sublime-text',
   'Switch Case'  => 'fnando/sublime-switch-case',
   'Ansible' => 'clifford-github/sublime-ansible',
