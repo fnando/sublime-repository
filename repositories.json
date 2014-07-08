@@ -70,6 +70,16 @@
           "details": "https://github.com/sindresorhus/sublime-autoprefixer"
         }
       ]
+    },
+    {
+      "name": "Theme - El Capitan",
+      "details": "https://github.com/iccir/El-Capitan-Theme",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/iccir/El-Capitan-Theme"
+        }
+      ]
     }
   ]
 }

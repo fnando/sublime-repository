@@ -8,6 +8,7 @@ $packages = {
   'Highlight' => 'n1k0/SublimeHighlight/tree/python3',
   'Expand Selection to Quotes' => 'kek/sublime-expand-selection-to-quotes',
   'Autoprefixer' => 'sindresorhus/sublime-autoprefixer',
+  'Theme - El Capitan' => 'iccir/El-Capitan-Theme',
 }
 
 $payload = {
