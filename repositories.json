@@ -32,6 +32,16 @@
       ]
     },
     {
+      "name": "Better QUnit",
+      "details": "https://github.com/fnando/better-qunit-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-qunit-for-sublime-text"
+        }
+      ]
+    },
+    {
       "name": "Switch Case",
       "details": "https://github.com/fnando/sublime-switch-case",
       "releases": [

@@ -4,6 +4,7 @@ $packages = {
   'Better Ruby' => 'fnando/better-ruby-for-sublime-text',
   'Better RSpec' => 'fnando/better-rspec-for-sublime-text',
   'Better Rails' => 'fnando/better-rails-for-sublime-text',
+  'Better QUnit' => 'fnando/better-qunit-for-sublime-text',
   'Switch Case'  => 'fnando/sublime-switch-case',
   'Ansible' => 'clifford-github/sublime-ansible',
   'Highlight' => 'n1k0/SublimeHighlight/tree/python3',
