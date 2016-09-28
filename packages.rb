@@ -1,20 +1,20 @@
 require "json"
 
 packages = {
-  "Better Ruby" => "fnando/better-ruby-for-sublime-text",
-  "Better RSpec" => "fnando/better-rspec-for-sublime-text",
-  "Better Rails" => "fnando/better-rails-for-sublime-text",
-  "Better QUnit" => "fnando/better-qunit-for-sublime-text",
-  "Switch Case"  => "fnando/sublime-switch-case",
-  "Ansible" => "clifford-github/sublime-ansible",
-  "Highlight" => "n1k0/SublimeHighlight/tree/python3",
-  "Expand Selection to Quotes" => "kek/sublime-expand-selection-to-quotes",
-  "Autoprefixer" => "sindresorhus/sublime-autoprefixer",
-  "Theme - El Capitan" => "iccir/El-Capitan-Theme",
-  "SideBarEnhancements" => "titoBouzout/SideBarEnhancements",
-  "BufferScroll" => "titoBouzout/BufferScroll",
-  "Dictionaries" => "titoBouzout/Dictionaries",
-  "WordCount" => "titoBouzout/WordCount"
+  "Ansible"                    => {repo: "clifford-github/sublime-ansible", branch: "master"},
+  "Autoprefixer"               => {repo: "sindresorhus/sublime-autoprefixer", branch: "master"},
+  "Better QUnit"               => {repo: "fnando/better-qunit-for-sublime-text", branch: "master"},
+  "Better Rails"               => {repo: "fnando/better-rails-for-sublime-text", branch: "master"},
+  "Better RSpec"               => {repo: "fnando/better-rspec-for-sublime-text", branch: "master"},
+  "Better Ruby"                => {repo: "fnando/better-ruby-for-sublime-text", branch: "master"},
+  "BufferScroll"               => {repo: "fnando/BufferScroll", branch: "st3"},
+  "Dictionaries"               => {repo: "fnando/Dictionaries", branch: "master"},
+  "Expand Selection to Quotes" => {repo: "kek/sublime-expand-selection-to-quotes", branch: "master"},
+  "Highlight"                  => {repo: "n1k0/SublimeHighlight/tree/python3", branch: "master"},
+  "SideBarEnhancements"        => {repo: "fnando/SideBarEnhancements", branch: "st3"},
+  "Switch Case"                => {repo: "fnando/sublime-switch-case", branch: "master"},
+  "Theme - El Capitan"         => {repo: "iccir/El-Capitan-Theme", branch: "master"},
+  "WordCount"                  => {repo: "fnando/WordCount", branch: "st3"}
 }
 
 payload = {
@@ -22,8 +22,8 @@ payload = {
   packages: []
 }
 
-packages.each do |name, gh|
-  repo = gh.split("/")[0, 2].join("/")
+packages.each do |name, info|
+  repo = info[:repo].split("/")[0, 2].join("/")
 
   payload[:packages] << {
     name: name,
@@ -31,7 +31,8 @@ packages.each do |name, gh|
     releases: [
       {
         sublime_text: "*",
-        details: %[https://github.com/#{gh}]
+        details: %[https://github.com/#{info[:repo]}],
+        branch: info[:branch]
       }
     ]
   }

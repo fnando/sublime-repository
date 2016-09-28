@@ -2,82 +2,13 @@
   "schema_version": "2.0",
   "packages": [
     {
-      "name": "Better Ruby",
-      "details": "https://github.com/fnando/better-ruby-for-sublime-text",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/fnando/better-ruby-for-sublime-text"
-        }
-      ]
-    },
-    {
-      "name": "Better RSpec",
-      "details": "https://github.com/fnando/better-rspec-for-sublime-text",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/fnando/better-rspec-for-sublime-text"
-        }
-      ]
-    },
-    {
-      "name": "Better Rails",
-      "details": "https://github.com/fnando/better-rails-for-sublime-text",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/fnando/better-rails-for-sublime-text"
-        }
-      ]
-    },
-    {
-      "name": "Better QUnit",
-      "details": "https://github.com/fnando/better-qunit-for-sublime-text",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/fnando/better-qunit-for-sublime-text"
-        }
-      ]
-    },
-    {
-      "name": "Switch Case",
-      "details": "https://github.com/fnando/sublime-switch-case",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/fnando/sublime-switch-case"
-        }
-      ]
-    },
-    {
       "name": "Ansible",
       "details": "https://github.com/clifford-github/sublime-ansible",
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/clifford-github/sublime-ansible"
-        }
-      ]
-    },
-    {
-      "name": "Highlight",
-      "details": "https://github.com/n1k0/SublimeHighlight",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/n1k0/SublimeHighlight/tree/python3"
-        }
-      ]
-    },
-    {
-      "name": "Expand Selection to Quotes",
-      "details": "https://github.com/kek/sublime-expand-selection-to-quotes",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/kek/sublime-expand-selection-to-quotes"
+          "details": "https://github.com/clifford-github/sublime-ansible",
+          "branch": "master"
         }
       ]
     },
@@ -87,7 +18,118 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/sindresorhus/sublime-autoprefixer"
+          "details": "https://github.com/sindresorhus/sublime-autoprefixer",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "Better QUnit",
+      "details": "https://github.com/fnando/better-qunit-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-qunit-for-sublime-text",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "Better Rails",
+      "details": "https://github.com/fnando/better-rails-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-rails-for-sublime-text",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "Better RSpec",
+      "details": "https://github.com/fnando/better-rspec-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-rspec-for-sublime-text",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "Better Ruby",
+      "details": "https://github.com/fnando/better-ruby-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-ruby-for-sublime-text",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "BufferScroll",
+      "details": "https://github.com/fnando/BufferScroll",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/BufferScroll",
+          "branch": "st3"
+        }
+      ]
+    },
+    {
+      "name": "Dictionaries",
+      "details": "https://github.com/fnando/Dictionaries",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/Dictionaries",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "Expand Selection to Quotes",
+      "details": "https://github.com/kek/sublime-expand-selection-to-quotes",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/kek/sublime-expand-selection-to-quotes",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "Highlight",
+      "details": "https://github.com/n1k0/SublimeHighlight",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/n1k0/SublimeHighlight/tree/python3",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "SideBarEnhancements",
+      "details": "https://github.com/fnando/SideBarEnhancements",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/SideBarEnhancements",
+          "branch": "st3"
+        }
+      ]
+    },
+    {
+      "name": "Switch Case",
+      "details": "https://github.com/fnando/sublime-switch-case",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/sublime-switch-case",
+          "branch": "master"
         }
       ]
     },
@@ -97,47 +139,19 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/iccir/El-Capitan-Theme"
-        }
-      ]
-    },
-    {
-      "name": "SideBarEnhancements",
-      "details": "https://github.com/titoBouzout/SideBarEnhancements",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/titoBouzout/SideBarEnhancements"
-        }
-      ]
-    },
-    {
-      "name": "BufferScroll",
-      "details": "https://github.com/titoBouzout/BufferScroll",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/titoBouzout/BufferScroll"
-        }
-      ]
-    },
-    {
-      "name": "Dictionaries",
-      "details": "https://github.com/titoBouzout/Dictionaries",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/titoBouzout/Dictionaries"
+          "details": "https://github.com/iccir/El-Capitan-Theme",
+          "branch": "master"
         }
       ]
     },
     {
       "name": "WordCount",
-      "details": "https://github.com/titoBouzout/WordCount",
+      "details": "https://github.com/fnando/WordCount",
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/titoBouzout/WordCount"
+          "details": "https://github.com/fnando/WordCount",
+          "branch": "st3"
         }
       ]
     }
