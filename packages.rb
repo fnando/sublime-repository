@@ -7,14 +7,10 @@ packages = {
   "Better Rails"               => {repo: "fnando/better-rails-for-sublime-text", branch: "master"},
   "Better RSpec"               => {repo: "fnando/better-rspec-for-sublime-text", branch: "master"},
   "Better Ruby"                => {repo: "fnando/better-ruby-for-sublime-text", branch: "master"},
-  "BufferScroll"               => {repo: "fnando/BufferScroll", branch: "st3"},
-  "Dictionaries"               => {repo: "fnando/Dictionaries", branch: "master"},
   "Expand Selection to Quotes" => {repo: "kek/sublime-expand-selection-to-quotes", branch: "master"},
   "Highlight"                  => {repo: "n1k0/SublimeHighlight/tree/python3", branch: "master"},
-  "SideBarEnhancements"        => {repo: "fnando/SideBarEnhancements", branch: "st3"},
   "Switch Case"                => {repo: "fnando/sublime-switch-case", branch: "master"},
-  "Theme - El Capitan"         => {repo: "iccir/El-Capitan-Theme", branch: "master"},
-  "WordCount"                  => {repo: "fnando/WordCount", branch: "st3"}
+  "Theme - El Capitan"         => {repo: "iccir/El-Capitan-Theme", branch: "master"}
 }
 
 payload = {
