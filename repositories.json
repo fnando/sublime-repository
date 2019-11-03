@@ -2,17 +2,6 @@
   "schema_version": "2.0",
   "packages": [
     {
-      "name": "Ansible",
-      "details": "https://github.com/clifford-github/sublime-ansible",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/clifford-github/sublime-ansible",
-          "branch": "master"
-        }
-      ]
-    },
-    {
       "name": "Autoprefixer",
       "details": "https://github.com/sindresorhus/sublime-autoprefixer",
       "releases": [
@@ -74,17 +63,6 @@
         {
           "sublime_text": "*",
           "details": "https://github.com/kek/sublime-expand-selection-to-quotes",
-          "branch": "master"
-        }
-      ]
-    },
-    {
-      "name": "Highlight",
-      "details": "https://github.com/n1k0/SublimeHighlight",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/n1k0/SublimeHighlight/tree/python3",
           "branch": "master"
         }
       ]
