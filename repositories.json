@@ -90,6 +90,17 @@
       ]
     },
     {
+      "name": "Name That Color",
+      "details": "https://github.com/fnando/sublime-name-that-color",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/sublime-name-that-color",
+          "branch": "master"
+        }
+      ]
+    },
+    {
       "name": "Switch Case",
       "details": "https://github.com/fnando/sublime-switch-case",
       "releases": [
