@@ -1,1 +1,1 @@
-To install packages from this channel, just add it to Package Control. Enable the command palette and type 'Add Repository'. Then paste the following URL: https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw/repositories.json
+To install packages from this channel, just add it to [Package Control](https://packagecontrol.io). Enable the command palette and type 'Add Repository'. Then paste the following URL: https://github.com/fnando/sublime-text-repository/raw/master/repositories.json
