@@ -114,7 +114,7 @@ html = <<~HTML
     <pre><code id="repository"></code></pre>
 
     <p>
-      Available repositories:
+      Available packages:
     </p>
 
     <ul>
