@@ -1,20 +1,7 @@
-require:
-  - rubocop-rails
-
 AllCops:
   TargetRubyVersion: 2.6
-  TargetRailsVersion: 6.0
-
-  Exclude:
-    - db/schema.rb
-    - db/seeds.rb
-    - config/environments/**/*.rb
-    - bin/**/*
 
 Style/Documentation:
-  Enabled: false
-
-Rails/Delegate:
   Enabled: false
 
 Style/StringLiterals:
@@ -54,21 +41,13 @@ Metrics/LineLength:
   Enabled: false
 
 Metrics/MethodLength:
-  Exclude:
-    - db/migrate/**.rb
-    - config/config.rb
-    - test/support/**/*.rb
+  Enabled: false
 
 Metrics/BlockLength:
-  Exclude:
-    - config/config.rb
-    - test/support/**/*.rb
+  Enabled: false
 
 Metrics/AbcSize:
-  Exclude:
-    - db/migrate/**.rb
-    - config/config.rb
-    - test/support/**/*.rb
+  Enabled: false
 
 Style/EmptyMethod:
   EnforcedStyle: expanded
