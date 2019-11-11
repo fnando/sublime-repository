@@ -27,7 +27,7 @@
   "Expand Selection to Quotes": {
     "branch": "master",
     "description": "Sublime Text plugin to expand selection to surrounding quotes",
-    "repo": "kek/sublime-expand-selection-to-quotes"
+    "repo": "fnando/sublime-expand-selection-to-quotes"
   },
   "Name That Color": {
     "branch": "master",
