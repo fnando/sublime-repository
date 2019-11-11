@@ -23,6 +23,6 @@ packages.each do |name, info|
   }
 end
 
-File.open("repositories.json", "w") do |file|
+File.open("public/repositories.json", "w") do |file|
   file << JSON.pretty_generate(payload)
 end
