@@ -15,6 +15,7 @@ packages.each do |name, info|
 
   payload[:packages] << {
     name: name,
+    description: info["description"],
     details: repo,
     releases: [
       {
@@ -35,7 +36,7 @@ package_list_html = packages.map do |name, info|
   %[
     <li>
       <a href="https://github.com/#{info['repo']}">#{name}</a><br>
-      #{info['details']}
+      #{info['description']}
     </li>
   ]
 end.join("\n")

@@ -1,42 +1,42 @@
 {
   "Autoprefixer": {
     "branch": "master",
-    "details": "Sublime plugin to prefix your CSS",
+    "description": "Sublime plugin to prefix your CSS",
     "repo": "sindresorhus/sublime-autoprefixer"
   },
   "Better QUnit": {
     "branch": "master",
-    "details": "A custom QUnit package, that includes snippets, custom syntax highlighters and more!",
+    "description": "A custom QUnit package, that includes snippets, custom syntax highlighters and more!",
     "repo": "fnando/better-qunit-for-sublime-text"
   },
   "Better RSpec": {
     "branch": "master",
-    "details": "A custom RSpec package, that includes snippets, custom syntax highlighters and more!",
+    "description": "A custom RSpec package, that includes snippets, custom syntax highlighters and more!",
     "repo": "fnando/better-rspec-for-sublime-text"
   },
   "Better Rails": {
     "branch": "master",
-    "details": "A custom Rails package, that includes snippets, custom syntax highlighters and more!",
+    "description": "A custom Rails package, that includes snippets, custom syntax highlighters and more!",
     "repo": "fnando/better-rails-for-sublime-text"
   },
   "Better Ruby": {
     "branch": "master",
-    "details": "A custom Ruby package, that includes snippets, custom syntax highlighters and more!",
+    "description": "A custom Ruby package, that includes snippets, custom syntax highlighters and more!",
     "repo": "fnando/better-ruby-for-sublime-text"
   },
   "Expand Selection to Quotes": {
     "branch": "master",
-    "details": "Sublime Text plugin to expand selection to surrounding quotes",
+    "description": "Sublime Text plugin to expand selection to surrounding quotes",
     "repo": "kek/sublime-expand-selection-to-quotes"
   },
   "Name That Color": {
     "branch": "master",
-    "details": "Fetch the color name for hexdecimal RGBs from different sources.",
+    "description": "Fetch the color name for hexdecimal RGBs from different sources.",
     "repo": "fnando/sublime-name-that-color"
   },
   "Switch Case": {
     "branch": "master",
-    "details": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
+    "description": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
     "repo": "fnando/sublime-switch-case"
   }
 }
