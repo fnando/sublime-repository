@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "Autoprefixer",
-      "details": "https://github.com/sindresorhus/sublime-autoprefixer",
+      "details": "Sublime plugin to prefix your CSS",
       "releases": [
         {
           "sublime_text": "*",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Better QUnit",
-      "details": "https://github.com/fnando/better-qunit-for-sublime-text",
+      "details": "A custom QUnit package, that includes snippets, custom syntax highlighters and more!",
       "releases": [
         {
           "sublime_text": "*",
@@ -25,7 +25,7 @@
     },
     {
       "name": "Better Rails",
-      "details": "https://github.com/fnando/better-rails-for-sublime-text",
+      "details": "A custom Rails package, that includes snippets, custom syntax highlighters and more!",
       "releases": [
         {
           "sublime_text": "*",
@@ -36,7 +36,7 @@
     },
     {
       "name": "Better RSpec",
-      "details": "https://github.com/fnando/better-rspec-for-sublime-text",
+      "details": "A custom RSpec package, that includes snippets, custom syntax highlighters and more!",
       "releases": [
         {
           "sublime_text": "*",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Better Ruby",
-      "details": "https://github.com/fnando/better-ruby-for-sublime-text",
+      "details": "A custom Ruby package, that includes snippets, custom syntax highlighters and more!",
       "releases": [
         {
           "sublime_text": "*",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Expand Selection to Quotes",
-      "details": "https://github.com/kek/sublime-expand-selection-to-quotes",
+      "details": "Sublime Text plugin to expand selection to surrounding quotes",
       "releases": [
         {
           "sublime_text": "*",
@@ -69,7 +69,7 @@
     },
     {
       "name": "Name That Color",
-      "details": "https://github.com/fnando/sublime-name-that-color",
+      "details": "Fetch the color name for hexdecimal RGBs from different sources.",
       "releases": [
         {
           "sublime_text": "*",
@@ -80,22 +80,11 @@
     },
     {
       "name": "Switch Case",
-      "details": "https://github.com/fnando/sublime-switch-case",
+      "details": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate)",
       "releases": [
         {
           "sublime_text": "*",
           "details": "https://github.com/fnando/sublime-switch-case",
-          "branch": "master"
-        }
-      ]
-    },
-    {
-      "name": "Theme - El Capitan",
-      "details": "https://github.com/iccir/El-Capitan-Theme",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/iccir/El-Capitan-Theme",
           "branch": "master"
         }
       ]

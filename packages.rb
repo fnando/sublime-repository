@@ -3,15 +3,14 @@
 require "json"
 
 packages = {
-  "Autoprefixer" => {repo: "sindresorhus/sublime-autoprefixer", branch: "master"},
-  "Better QUnit" => {repo: "fnando/better-qunit-for-sublime-text", branch: "master"},
-  "Better Rails" => {repo: "fnando/better-rails-for-sublime-text", branch: "master"},
-  "Better RSpec" => {repo: "fnando/better-rspec-for-sublime-text", branch: "master"},
-  "Better Ruby" => {repo: "fnando/better-ruby-for-sublime-text", branch: "master"},
-  "Expand Selection to Quotes" => {repo: "kek/sublime-expand-selection-to-quotes", branch: "master"},
-  "Name That Color" => {repo: "fnando/sublime-name-that-color", branch: "master"},
-  "Switch Case" => {repo: "fnando/sublime-switch-case", branch: "master"},
-  "Theme - El Capitan" => {repo: "iccir/El-Capitan-Theme", branch: "master"}
+  "Autoprefixer" => {repo: "sindresorhus/sublime-autoprefixer", branch: "master", details: "Sublime plugin to prefix your CSS"},
+  "Better QUnit" => {repo: "fnando/better-qunit-for-sublime-text", branch: "master", details: "A custom QUnit package, that includes snippets, custom syntax highlighters and more!"},
+  "Better Rails" => {repo: "fnando/better-rails-for-sublime-text", branch: "master", details: "A custom Rails package, that includes snippets, custom syntax highlighters and more!"},
+  "Better RSpec" => {repo: "fnando/better-rspec-for-sublime-text", branch: "master", details: "A custom RSpec package, that includes snippets, custom syntax highlighters and more!"},
+  "Better Ruby" => {repo: "fnando/better-ruby-for-sublime-text", branch: "master", details: "A custom Ruby package, that includes snippets, custom syntax highlighters and more!"},
+  "Expand Selection to Quotes" => {repo: "kek/sublime-expand-selection-to-quotes", branch: "master", details: "Sublime Text plugin to expand selection to surrounding quotes"},
+  "Name That Color" => {repo: "fnando/sublime-name-that-color", branch: "master", details: "Fetch the color name for hexdecimal RGBs from different sources."},
+  "Switch Case" => {repo: "fnando/sublime-switch-case", branch: "master", details: "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate)"}
 }
 
 payload = {
@@ -24,7 +23,7 @@ packages.each do |name, info|
 
   payload[:packages] << {
     name: name,
-    details: %[https://github.com/#{repo}],
+    details: info[:details],
     releases: [
       {
         sublime_text: "*",
