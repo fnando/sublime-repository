@@ -108,7 +108,7 @@ html = <<~HTML
       following URL:
     </p>
 
-    <pre><code>https://github.com/fnando/sublime-text-repository/raw/master/repositories.json</code></pre>
+    <pre><code id="repository"></code></pre>
 
     <p>
       Available repositories:
@@ -121,6 +121,10 @@ html = <<~HTML
     <p>
       Page last built on #{built_on}.
     </p>
+
+    <script>
+      document.querySelector("#repository").textContent = location.protocol + "//" + location.hostname + "/repositories.json";
+    </script>
   </body>
   </html>
 HTML
