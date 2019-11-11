@@ -11,13 +11,15 @@ payload = {
 }
 
 packages.each do |name, info|
+  repo = %[https://github.com/#{info['repo']}]
+
   payload[:packages] << {
     name: name,
-    details: info["details"],
+    details: repo,
     releases: [
       {
         sublime_text: "*",
-        details: %[https://github.com/#{info['repo']}],
+        details: repo,
         branch: info["branch"]
       }
     ]
