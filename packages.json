@@ -36,7 +36,7 @@
   },
   "Switch Case": {
     "branch": "master",
-    "details": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate)",
+    "details": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
     "repo": "fnando/sublime-switch-case"
   }
 }
