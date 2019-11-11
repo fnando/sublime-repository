@@ -1,1 +1,5 @@
-To install packages from this channel, just add it to [Package Control](https://packagecontrol.io). Enable the command palette and type 'Add Repository'. Then paste the following URL: https://sublime.fnando.com/repositories.json
+# Sublime Text Repository
+
+Enables a custom [Package Control](https://packagecontrol.io) repository, which enables installing my own packages and packages that I use that cannot be installed directly from Package Control.
+
+For instructions on how to add this repository, go to <https://sublime.fnando.com>.
