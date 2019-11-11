@@ -24,23 +24,23 @@
       ]
     },
     {
-      "name": "Better Rails",
-      "details": "A custom Rails package, that includes snippets, custom syntax highlighters and more!",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/fnando/better-rails-for-sublime-text",
-          "branch": "master"
-        }
-      ]
-    },
-    {
       "name": "Better RSpec",
       "details": "A custom RSpec package, that includes snippets, custom syntax highlighters and more!",
       "releases": [
         {
           "sublime_text": "*",
           "details": "https://github.com/fnando/better-rspec-for-sublime-text",
+          "branch": "master"
+        }
+      ]
+    },
+    {
+      "name": "Better Rails",
+      "details": "A custom Rails package, that includes snippets, custom syntax highlighters and more!",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-rails-for-sublime-text",
           "branch": "master"
         }
       ]
