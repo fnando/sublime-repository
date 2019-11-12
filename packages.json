@@ -24,6 +24,11 @@
     "description": "A custom Ruby package, that includes snippets, custom syntax highlighters and more!",
     "repo": "fnando/better-ruby-for-sublime-text"
   },
+  "Close Others": {
+    "branch": "master",
+    "description": "Close other tabs and windows with shortcuts.",
+    "repo": "fnando/sublime-close-others"
+  },
   "Expand Selection to Quotes": {
     "branch": "master",
     "description": "Sublime Text plugin to expand selection to surrounding quotes",
