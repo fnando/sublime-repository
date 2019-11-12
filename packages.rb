@@ -47,6 +47,7 @@ html = <<~HTML
   <head>
     <meta charset="UTF-8">
     <title>Custom Sublime Repository</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style type="text/css">
       :root {
         --color-background: #fff;
