@@ -61,7 +61,8 @@ html = <<~HTML
           --color-background: #141a21;
           --color-text: rgba(255, 255, 255, .3);
           --color-title: #fff;
-          --color-pre: rgba(255, 255, 255, .3);
+          --color-pre: rgba(255, 255, 255, .1);
+          --color-pre-text: rgba(255, 255, 255, .6);
           --color-link: #3d90d5;
         }
       }
