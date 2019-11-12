@@ -53,6 +53,7 @@ html = <<~HTML
         --color-text: #222;
         --color-title: #000;
         --color-pre: #f0f0f0;
+        --color-pre-text: #222;
         --color-link: #3d90d5;
       }
 
@@ -87,6 +88,7 @@ html = <<~HTML
 
       pre {
         background: var(--color-pre);
+        color: var(--color-pre-text);
         overflow: auto;
         padding: 15px;
       }
