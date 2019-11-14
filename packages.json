@@ -49,6 +49,11 @@
     "description": "Auto format Ruby files with Rubocop (https://www.rubocop.org)",
     "repo": "fnando/sublime-rubocop-formatter"
   },
+  "SublimeEnv": {
+    "branch": "master",
+    "description": "Set environment variables in the scope of Sublime Text. Useful when you want to run commands from Sublime Text, or set default environment variables for language compilers.",
+    "repo": "fnando/sublime-env"
+  },
   "Switch Case": {
     "branch": "master",
     "description": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
