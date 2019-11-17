@@ -44,6 +44,11 @@
     "description": "Fetch the color name for hexdecimal RGBs from different sources.",
     "repo": "fnando/sublime-name-that-color"
   },
+  "Procfile Syntax": {
+    "branch": "master",
+    "description": "Syntax highlighting for Procfile",
+    "repo": "fnando/sublime-procfile"
+  },
   "Rubocop Formatter": {
     "branch": "master",
     "description": "Auto format Ruby files with Rubocop (https://www.rubocop.org)",
