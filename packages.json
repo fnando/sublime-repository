@@ -24,6 +24,11 @@
     "description": "A custom Ruby package, that includes snippets, custom syntax highlighters and more!",
     "repo": "fnando/better-ruby-for-sublime-text"
   },
+  "Bundler Autocomplete": {
+    "branch": "master",
+    "description": "Autocomplete requires using your project's Gemfile as the source.",
+    "repo": "fnando/sublime-bundler-autocomplete"
+  },
   "Close Others": {
     "branch": "master",
     "description": "Close other tabs and windows with shortcuts.",
