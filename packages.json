@@ -44,6 +44,11 @@
     "description": "Sublime Text plugin to expand selection to surrounding quotes",
     "repo": "fnando/sublime-expand-selection-to-quotes"
   },
+  "Flutter Formatter": {
+    "branch": "master",
+    "description": "Format Dart files using Flutter",
+    "repo": "fnando/sublime-flutter-formatter"
+  },
   "Name That Color": {
     "branch": "master",
     "description": "Fetch the color name for hexdecimal RGBs from different sources.",
