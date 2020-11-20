@@ -5,9 +5,9 @@
     "repo": "sindresorhus/sublime-autoprefixer"
   },
   "Better QUnit": {
-    "branch": "master",
+    "branch": "main",
     "description": "A custom QUnit package, that includes snippets, custom syntax highlighters and more!",
-    "repo": "fnando/better-qunit-for-sublime-text"
+    "repo": "fnando/sublime-better-qunit"
   },
   "Better RSpec": {
     "branch": "main",
