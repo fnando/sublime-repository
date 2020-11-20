@@ -78,5 +78,10 @@
     "branch": "main",
     "description": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
     "repo": "fnando/sublime-switch-case"
+  },
+  "Prettier": {
+    "branch": "main",
+    "description": "Auto format files with Prettier (https://prettier.io).",
+    "repo": "fnando/sublime-prettier"
   }
 }
