@@ -45,7 +45,7 @@
     "repo": "fnando/sublime-expand-selection-to-quotes"
   },
   "Flutter Formatter": {
-    "branch": "master",
+    "branch": "main",
     "description": "Format Dart files using Flutter",
     "repo": "fnando/sublime-flutter-formatter"
   },
