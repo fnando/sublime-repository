@@ -83,5 +83,10 @@
     "branch": "main",
     "description": "Auto format files with Prettier (https://prettier.io).",
     "repo": "fnando/sublime-prettier"
+  },
+  "DA-UI": {
+    "branch": "main",
+    "description": "A theme from @ihodev restored from my local archives after he removed his entire work.",
+    "repo": "fnando/DA-UI"
   }
 }
