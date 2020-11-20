@@ -30,7 +30,7 @@
     "repo": "fnando/sublime-bundler-autocomplete"
   },
   "Close Others": {
-    "branch": "master",
+    "branch": "main",
     "description": "Close other tabs and windows with shortcuts.",
     "repo": "fnando/sublime-close-others"
   },
