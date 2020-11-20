@@ -87,6 +87,6 @@
   "DA UI": {
     "branch": "main",
     "description": "A theme from @ihodev restored from my local archives after he removed his entire work.",
-    "repo": "fnando/DA-UI"
+    "repo": "fnando/sublime-da-ui"
   }
 }
