@@ -10,9 +10,9 @@
     "repo": "fnando/better-qunit-for-sublime-text"
   },
   "Better RSpec": {
-    "branch": "master",
+    "branch": "main",
     "description": "A custom RSpec package, that includes snippets, custom syntax highlighters and more!",
-    "repo": "fnando/better-rspec-for-sublime-text"
+    "repo": "fnando/sublime-better-rspec"
   },
   "Better Rails": {
     "branch": "main",
