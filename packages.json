@@ -15,9 +15,9 @@
     "repo": "fnando/better-rspec-for-sublime-text"
   },
   "Better Rails": {
-    "branch": "master",
+    "branch": "main",
     "description": "A custom Rails package, that includes snippets, custom syntax highlighters and more!",
-    "repo": "fnando/better-rails-for-sublime-text"
+    "repo": "fnando/sublime-better-rails"
   },
   "Better Ruby": {
     "branch": "main",
