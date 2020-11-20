@@ -60,7 +60,7 @@
     "repo": "fnando/sublime-procfile"
   },
   "RuboCop Formatter": {
-    "branch": "master",
+    "branch": "main",
     "description": "Auto format Ruby files with RuboCop (https://www.rubocop.org)",
     "repo": "fnando/sublime-rubocop-formatter"
   },
