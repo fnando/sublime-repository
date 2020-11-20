@@ -20,9 +20,9 @@
     "repo": "fnando/better-rails-for-sublime-text"
   },
   "Better Ruby": {
-    "branch": "master",
+    "branch": "main",
     "description": "A custom Ruby package, that includes snippets, custom syntax highlighters and more!",
-    "repo": "fnando/better-ruby-for-sublime-text"
+    "repo": "fnando/sublime-better-ruby"
   },
   "Bundler Autocomplete": {
     "branch": "main",
