@@ -70,7 +70,7 @@
     "repo": "fnando/sublime-rubocop-completion"
   },
   "SublimeEnv": {
-    "branch": "master",
+    "branch": "main",
     "description": "Set environment variables in the scope of Sublime Text. Useful when you want to run commands from Sublime Text, or set default environment variables for language compilers.",
     "repo": "fnando/sublime-env"
   },
