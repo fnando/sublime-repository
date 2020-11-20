@@ -59,10 +59,15 @@
     "description": "Syntax highlighting for Procfile",
     "repo": "fnando/sublime-procfile"
   },
-  "Rubocop Formatter": {
+  "RuboCop Formatter": {
     "branch": "master",
-    "description": "Auto format Ruby files with Rubocop (https://www.rubocop.org)",
+    "description": "Auto format Ruby files with RuboCop (https://www.rubocop.org)",
     "repo": "fnando/sublime-rubocop-formatter"
+  },
+  "RuboCop Completion": {
+    "branch": "main",
+    "description": "RuboCop autocompletion for Sublime Text (https://www.rubocop.org)",
+    "repo": "fnando/sublime-rubocop-completion"
   },
   "SublimeEnv": {
     "branch": "master",
