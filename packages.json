@@ -55,7 +55,7 @@
     "repo": "fnando/sublime-name-that-color"
   },
   "Procfile Syntax": {
-    "branch": "master",
+    "branch": "main",
     "description": "Syntax highlighting for Procfile",
     "repo": "fnando/sublime-procfile"
   },
