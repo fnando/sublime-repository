@@ -40,7 +40,7 @@
     "repo": "fnando/sublime-soda"
   },
   "Expand Selection to Quotes": {
-    "branch": "master",
+    "branch": "main",
     "description": "Sublime Text plugin to expand selection to surrounding quotes",
     "repo": "fnando/sublime-expand-selection-to-quotes"
   },
