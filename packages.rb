@@ -4,6 +4,9 @@ require "json"
 require "time"
 
 packages = JSON.parse(File.read("#{__dir__}/packages.json"))
+packages = packages.sort_by do |key, _|
+  key.downcase
+end
 
 payload = {
   schema_version: "2.0",
