@@ -50,7 +50,7 @@
     "repo": "fnando/sublime-flutter-formatter"
   },
   "Name That Color": {
-    "branch": "master",
+    "branch": "main",
     "description": "Fetch the color name for hexdecimal RGBs from different sources.",
     "repo": "fnando/sublime-name-that-color"
   },
