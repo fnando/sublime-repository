@@ -84,9 +84,9 @@
     "description": "Auto format files with Prettier (https://prettier.io).",
     "repo": "fnando/sublime-prettier"
   },
-  "DA UI": {
+  "Slick": {
     "branch": "main",
-    "description": "A theme from @ihodev restored from my local archives after he removed his entire work.",
-    "repo": "fnando/sublime-da-ui"
+    "description": "A theme from for Sublime Text 4000+.",
+    "repo": "fnando/sublime-slick-ui"
   }
 }
