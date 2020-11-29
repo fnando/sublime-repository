@@ -88,5 +88,10 @@
     "branch": "main",
     "description": "A theme from for Sublime Text 4000+.",
     "repo": "fnando/sublime-slick-ui"
+  },
+  "SmartyPants": {
+    "branch": "main",
+    "description": "Apply better typography to texts in Sublime Text.",
+    "repo": "fnando/sublime-smartypants"
   }
 }
