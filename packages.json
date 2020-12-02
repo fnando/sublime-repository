@@ -93,5 +93,10 @@
     "branch": "main",
     "description": "Apply better typography to texts in Sublime Text.",
     "repo": "fnando/sublime-smartypants"
+  },
+  "Golang Formatter": {
+    "branch": "main",
+    "description": "Auto format Golang files with gofmt.",
+    "repo": "fnando/sublime-golang-formatter"
   }
 }
