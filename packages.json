@@ -59,11 +59,6 @@
     "description": "Syntax highlighting for Procfile",
     "repo": "fnando/sublime-procfile"
   },
-  "RuboCop Formatter": {
-    "branch": "main",
-    "description": "Auto format Ruby files with RuboCop (https://www.rubocop.org)",
-    "repo": "fnando/sublime-rubocop-formatter"
-  },
   "RuboCop Completion": {
     "branch": "main",
     "description": "RuboCop autocompletion for Sublime Text (https://www.rubocop.org)",
@@ -79,11 +74,6 @@
     "description": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
     "repo": "fnando/sublime-switch-case"
   },
-  "Prettier": {
-    "branch": "main",
-    "description": "Auto format files with Prettier (https://prettier.io).",
-    "repo": "fnando/sublime-prettier"
-  },
   "Slick": {
     "branch": "main",
     "description": "A theme from for Sublime Text 4000+.",
@@ -94,9 +84,9 @@
     "description": "Apply better typography to texts in Sublime Text.",
     "repo": "fnando/sublime-smartypants"
   },
-  "Golang Formatter": {
+  "Code Formatter": {
     "branch": "main",
-    "description": "Auto format Golang files with gofmt.",
-    "repo": "fnando/sublime-golang-formatter"
+    "description": "A plugin that allows applying code formatting with minimum configuration.",
+    "repo": "fnando/sublime-code-formatter"
   }
 }
