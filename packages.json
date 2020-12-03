@@ -76,7 +76,7 @@
   },
   "Slick": {
     "branch": "main",
-    "description": "A theme from for Sublime Text 4000+.",
+    "description": "Theme for Sublime Text.",
     "repo": "fnando/sublime-slick-ui"
   },
   "SmartyPants": {
