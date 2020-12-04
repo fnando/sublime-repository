@@ -84,9 +84,9 @@
     "description": "Apply better typography to texts in Sublime Text.",
     "repo": "fnando/sublime-smartypants"
   },
-  "Code Formatter": {
+  "Codefmt": {
     "branch": "main",
     "description": "A plugin that allows applying code formatting with minimum configuration.",
-    "repo": "fnando/sublime-code-formatter"
+    "repo": "fnando/sublime-codefmt"
   }
 }
