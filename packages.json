@@ -88,5 +88,10 @@
     "branch": "main",
     "description": "A plugin that allows applying code formatting with minimum configuration.",
     "repo": "fnando/sublime-codefmt"
+  },
+  "Ruby File Toggle": {
+    "branch": "main",
+    "description": "A plugin that switches from implementation to test file and vice-versa. Supports minitest and rspec.",
+    "repo": "fnando/sublime-ruby-file-toggle"
   }
 }
