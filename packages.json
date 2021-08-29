@@ -34,6 +34,11 @@
     "description": "Close other tabs and windows with shortcuts.",
     "repo": "fnando/sublime-close-others"
   },
+  "Codefmt": {
+    "branch": "main",
+    "description": "A plugin that allows applying code formatting with minimum configuration.",
+    "repo": "fnando/sublime-codefmt"
+  },
   "Color Scheme - Soda": {
     "branch": "main",
     "description": "Espresso Soda Color Scheme",
@@ -59,15 +64,10 @@
     "description": "RuboCop autocompletion for Sublime Text (https://www.rubocop.org)",
     "repo": "fnando/sublime-rubocop-completion"
   },
-  "SublimeEnv": {
+  "Ruby File Toggle": {
     "branch": "main",
-    "description": "Set environment variables in the scope of Sublime Text. Useful when you want to run commands from Sublime Text, or set default environment variables for language compilers.",
-    "repo": "fnando/sublime-env"
-  },
-  "Switch Case": {
-    "branch": "main",
-    "description": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
-    "repo": "fnando/sublime-switch-case"
+    "description": "A plugin that switches from implementation to test file and vice-versa. Supports minitest and rspec.",
+    "repo": "fnando/sublime-ruby-file-toggle"
   },
   "Slick": {
     "branch": "main",
@@ -79,14 +79,19 @@
     "description": "Apply better typography to texts in Sublime Text.",
     "repo": "fnando/sublime-smartypants"
   },
-  "Codefmt": {
+  "SublimeEnv": {
     "branch": "main",
-    "description": "A plugin that allows applying code formatting with minimum configuration.",
-    "repo": "fnando/sublime-codefmt"
+    "description": "Set environment variables in the scope of Sublime Text. Useful when you want to run commands from Sublime Text, or set default environment variables for language compilers.",
+    "repo": "fnando/sublime-env"
   },
-  "Ruby File Toggle": {
+  "SublimeLinter-contrib-proselint": {
     "branch": "main",
-    "description": "A plugin that switches from implementation to test file and vice-versa. Supports minitest and rspec.",
-    "repo": "fnando/sublime-ruby-file-toggle"
+    "description": "A SublimeLinter plugin for proselint.",
+    "repo": "fnando/SublimeLinter-contrib-proselint"
+  },
+  "Switch Case": {
+    "branch": "main",
+    "description": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
+    "repo": "fnando/sublime-switch-case"
   }
 }
