@@ -49,6 +49,11 @@
     "description": "Sublime Text plugin to expand selection to surrounding quotes",
     "repo": "fnando/sublime-expand-selection-to-quotes"
   },
+  "Gem Description": {
+    "branch": "main",
+    "description": "Show Rubygems description and annotate your code.",
+    "repo": "fnando/sublime-gem-description"
+  },
   "Name That Color": {
     "branch": "main",
     "description": "Fetch the color name for hexdecimal RGBs from different sources.",
