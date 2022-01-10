@@ -74,6 +74,11 @@
     "description": "A plugin that switches from implementation to test file and vice-versa. Supports minitest and rspec.",
     "repo": "fnando/sublime-ruby-file-toggle"
   },
+  "Seagull": {
+    "branch": "main",
+    "description": "Syntax highlighting for Seagull templates",
+    "repo": "fnando/seagull"
+  },
   "Slick": {
     "branch": "main",
     "description": "Theme for Sublime Text.",
