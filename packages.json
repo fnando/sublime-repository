@@ -108,5 +108,10 @@
     "branch": "main",
     "description": "Alternate between different cases (snake_case, SCREAM_SNAKE_CASE, CamelCase, camelBack, and hyphenate).",
     "repo": "fnando/sublime-switch-case"
+  },
+  "WordCount": {
+    "branch": "main",
+    "description": "Provides a real-time word count and character count in the status-bar for Sublime Text.",
+    "repo": "fnando/sublime-word-count"
   }
 }
