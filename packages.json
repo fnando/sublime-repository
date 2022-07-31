@@ -64,10 +64,10 @@
     "description": "Syntax highlighting for Procfile",
     "repo": "fnando/sublime-procfile"
   },
-  "RuboCop Completion": {
+  "RuboCop": {
     "branch": "main",
-    "description": "RuboCop autocompletion for Sublime Text (https://www.rubocop.org)",
-    "repo": "fnando/sublime-rubocop-completion"
+    "description": "RuboCop autocompletion and server management for Sublime Text (https://www.rubocop.org)",
+    "repo": "fnando/sublime-rubocop"
   },
   "Ruby File Toggle": {
     "branch": "main",
