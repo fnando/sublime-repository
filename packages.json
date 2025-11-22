@@ -9,15 +9,15 @@
     "description": "A custom QUnit package, that includes snippets, custom syntax highlighters and more!",
     "repo": "fnando/sublime-better-qunit"
   },
-  "Better RSpec": {
-    "branch": "main",
-    "description": "A custom RSpec package, that includes snippets, custom syntax highlighters and more!",
-    "repo": "fnando/sublime-better-rspec"
-  },
   "Better Rails": {
     "branch": "main",
     "description": "A custom Rails package, that includes snippets, custom syntax highlighters and more!",
     "repo": "fnando/sublime-better-rails"
+  },
+  "Better RSpec": {
+    "branch": "main",
+    "description": "A custom RSpec package, that includes snippets, custom syntax highlighters and more!",
+    "repo": "fnando/sublime-better-rspec"
   },
   "Better Ruby": {
     "branch": "main",
@@ -43,6 +43,11 @@
     "branch": "main",
     "description": "Espresso Soda Color Scheme",
     "repo": "fnando/sublime-soda"
+  },
+  "Demo Tape": {
+    "branch": "main",
+    "description": "Sublime plugin to prefix your CSS",
+    "repo": "fnando/sublime-demotape"
   },
   "Expand Selection to Quotes": {
     "branch": "main",
