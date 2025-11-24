@@ -46,7 +46,7 @@
   },
   "Demo Tape": {
     "branch": "main",
-    "description": "Sublime plugin to prefix your CSS",
+    "description": "Sublime plugin for Demo Tape (https://github.com/fnando/demotape)",
     "repo": "fnando/sublime-demotape"
   },
   "Expand Selection to Quotes": {
